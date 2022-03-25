@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>meme generator</title>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Bem vindo(a) à fabrica de <b> memes!</b></h1>
+      </header>
+      <section class="instructions">
+        <div class="lilas">
+          <h2>🖤😂 Crie seu meme 😂🖤</h2>
+        </div>
+        <p>
+          Primeiro, insira o texto desejado. Em seguida, faça upload de uma
+          imagem do seu computador e escolha um estilo de borda para seu meme.
+        </p>
+      </section>
+      <section class="main-container">
+        <section class="inputs-container">
+          <!-- caixa de texto -->
+          <input
+            type="text"
+            maxlength="60"
+            id="text-input"
+            placeholder="escreva seu texto"
+          />
+          <br />
+          <input
+            type="file"
+            id="meme-insert"
+            accept="image/png, image/jpg"
+            placeholder="escolha sua imagem"
+          />
+        </section>
+        <div id="meme-image-container">
+          <img id="meme-image" />
+          <div id="meme-text"></div>
+        </div>
+      </section>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
