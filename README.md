@@ -99,3 +99,13 @@ O objetivo deste projeto foi treinar e melhorar minhas capacidades e conheciment
 **O que será verificado:**
 
 Será validado se a quantidade máxima de caracteres digitáveis no elemento `text-input` deve ser 60.
+  
+  
+<div style="display: inline_block">    
+  <img align="right" alt=""  width="200px" src="https://media4.giphy.com/media/3JkWhKQwdDSoIrrCG2/giphy.gif" />   
+</div>
+
+## Espero que tenha gostado!  
+
+## Se sinta a vontade para pontuar qualquer observação! Adoraria saber onde posso melhorar. Se quiser entrar em contato, você pode me mandar uma mensagem no <a href="https://www.linkedin.com/in/vitoria-meinerz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
