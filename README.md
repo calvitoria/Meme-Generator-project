@@ -28,3 +28,6 @@ O objetivo deste projeto foi treinar e melhorar minhas capacidades e conheciment
 
 ## Se sinta a vontade para pontuar qualquer observação! Adoraria saber onde posso melhorar. Se quiser entrar em contato, você pode me mandar uma mensagem no <a href="https://www.linkedin.com/in/vitoria-meinerz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+<div>
+   <img align="center" alt="capa" src="https://user-images.githubusercontent.com/95686401/161973472-686061dd-f992-472e-a9e8-fc024c766126.png" />
+</div>
