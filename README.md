@@ -1,6 +1,6 @@
 
 <div style="display: inline_block">    
-  <img align="right" alt=""  width="150px" src="https://media2.giphy.com/media/Y0gDOCtkiVJcS4Bvql/giphy.gif?cid=ecf05e4736efeac2999829de3cb4cef8361904f350dd06dc&rid=giphy.gif&ct=s" />   
+  <img align="right" alt=""  width="120px" src="https://media2.giphy.com/media/Y0gDOCtkiVJcS4Bvql/giphy.gif?cid=ecf05e4736efeac2999829de3cb4cef8361904f350dd06dc&rid=giphy.gif&ct=s" />   
 </div>
 
 ## Bem vindo ao repositório dedicado ao projeto Meme Generator! 
