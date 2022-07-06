@@ -1,10 +1,7 @@
 
-<div style="display: inline_block">    
-  <img align="right" alt=""  width="120px" src="https://media2.giphy.com/media/Y0gDOCtkiVJcS4Bvql/giphy.gif?cid=ecf05e4736efeac2999829de3cb4cef8361904f350dd06dc&rid=giphy.gif&ct=s" />   
-</div>
-
 ## Bem vindo ao repositório dedicado ao projeto Meme Generator! 
 O objetivo deste projeto foi treinar e melhorar minhas capacidades e conhecimentos em JavaScript! Abaixo, você encontrará os requisitos para a realização e aprovação do projeto. Lembrando que fiz esse projeto no Módulo 1 (fundamentos) enquanto estudante da Trybe. 
+*reminder: this was developed while student of Trybe! Some helper files were given by the course!*
 
 #### 🚀 Adoraria saber onde posso melhorar, então se tiver algum feedback, não hesite em me contatar! 🚀
 <div>
